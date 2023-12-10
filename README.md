@@ -29,7 +29,7 @@ print("Square root of the number:",newton_method(a))
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![gcd of two number](python_2b.png)
 ![output](python_5.png)
 
 
